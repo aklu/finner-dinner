@@ -4,17 +4,12 @@
 layout: default
 ---
 
-# Welcome to your new Bridgetown website.
+# Winner Winner Finner Dinner
 
-You can learn more about how to build and deploy your new website by reading the  [Bridgetown documentation](https://www.bridgetownrb.com/docs).
 
-You can choose a [theme](https://github.com/topics/bridgetown-theme) or add some [plugins](https://www.bridgetownrb.com/plugins/) to get started quickly.
+All of the information you could possibly need to keep Finn alive, happy and then some!
 
-Be sure to check out the [Bridgetown Cards](https://bridgetown.cards) community site for helpful tips & tricks.
-
-If you run into any issues or have additional questions, please join us in our [Discord chat](https://discord.gg/4E6hktQGz4) or in [GitHub discussions](https://github.com/bridgetownrb/bridgetown/discussions).
-
-_Have fun and **good luck**!_
+_Have fun with my derp dog!_
 
 ----
 
